@@ -1,3 +1,23 @@
+# 好用稳定的 Shadowrocket 节点推荐
+
+## 简介
+
+最近发现了一个高性价比节点平台，专为需要科学上网的用户设计。我本人亲测稳定、速度快，尤其适合使用 Shadowrocket等工具的用户。
+
+## 推荐理由
+- 每月仅需 ¥4 RMB（约 $0.55 USD）起
+- 每月 100G 流量
+- 支持无限设备同时登录使用
+- 油管、推特、GPT 等使用流畅不卡
+- 注册后即可在线购买，无需繁琐配置
+
+## 快速开始
+1. 点击注册入口：👉[点此注册](https://yukihasu.org/#/register?code=xk3RSUWH)
+2. 登录后购买套餐（支持支付宝/银行卡/加密货币等）
+3. 复制节点或订阅链接，导入至你常用的工具（如 Shadowrocket）
+
+> 本项目仅做使用推荐，不售卖节点资源，无任何销售行为。觉得好用就点个 Star 支持吧！
+
 # Stable & Affordable Shadowrocket Node Recommendation
 
 Looking for a cheap and reliable way to stay connected?  
@@ -33,25 +53,3 @@ If you find this helpful, feel free to ⭐ the project and share with friends!
 Enjoy a smoother and more stable internet experience!
 
 ---
-
-## Chinese
-
-# 免费稳定的 Shadowrocket 节点推荐
-
-## 简介
-
-最近发现了一个高性价比节点平台，专为需要科学上网的用户设计。我本人亲测稳定、速度快，尤其适合使用 Shadowrocket等工具的用户。
-
-## 推荐理由
-- 每月仅需 ¥4 RMB（约 $0.55 USD）起
-- 每月 100G 流量
-- 支持无限设备同时登录使用
-- 油管、推特、GPT 等使用流畅不卡
-- 注册后即可在线购买，无需繁琐配置
-
-## 快速开始
-1. 点击注册入口：👉[点此注册](https://yukihasu.org/#/register?code=xk3RSUWH)
-2. 登录后购买套餐（支持支付宝/银行卡/加密货币等）
-3. 复制节点或订阅链接，导入至你常用的工具（如 Shadowrocket）
-
-> 本项目仅做使用推荐，不售卖节点资源，无任何销售行为。觉得好用就点个 Star 支持吧！
