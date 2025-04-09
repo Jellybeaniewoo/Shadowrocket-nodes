@@ -1,4 +1,4 @@
-# 好用稳定的 Shadowrocket 节点推荐
+# 好用稳定的 Shadowrocket小火箭 节点推荐
 
 ## 简介
 
