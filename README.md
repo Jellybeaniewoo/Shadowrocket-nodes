@@ -25,14 +25,6 @@ I've been using a great node service, and it has exceeded expectations:
 
 ---
 
-## QR Code for Easy Signup
-
-You can scan this QR code to register quickly:
-
-![Register via QR](https://api.qrserver.com/v1/create-qr-code/?data=https://yukihasu.org/#/register?code=xk3RSUWH&size=200x200)
-
----
-
 ## Disclaimer
 
 This is a **personal recommendation only** — I do not sell or host any nodes.  
@@ -62,7 +54,4 @@ Enjoy a smoother and more stable internet experience!
 2. 登录后购买套餐（支持支付宝/银行卡/加密货币等）
 3. 复制节点或订阅链接，导入至你常用的工具（如 Shadowrocket）
 
-## 注册二维码
-![扫码注册 Yukihasu](https://api.qrserver.com/v1/create-qr-code/?data=https://yukihasu.org/#/register?code=xk3RSUWH&size=200x200)
-
-> 本项目仅做使用推荐，无任何销售行为。觉得好用就点个 Star 支持吧！
+> 本项目仅做使用推荐，不售卖节点资源，无任何销售行为。觉得好用就点个 Star 支持吧！
