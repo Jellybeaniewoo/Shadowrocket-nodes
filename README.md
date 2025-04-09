@@ -17,7 +17,7 @@ I've been using a great node service, and it has exceeded expectations:
 ## Quick Start
 
 1. Visit the website and register an account:  
-   👉 [https://yukihasu.org/#/register?code=xk3RSUWH](https://yukihasu.org/#/register?code=xk3RSUWH)
+   👉 [Click here to register](https://yukihasu.org/#/register?code=xk3RSUWH)
 
 2. Purchase a package (Alipay, bank card, or crypto supported)
 
@@ -58,7 +58,7 @@ Enjoy a smoother and more stable internet experience!
 - 注册后即可在线购买，无需繁琐配置
 
 ## 快速开始
-1. 点击注册入口：[注册 Yukihasu](https://yukihasu.org/#/register?code=xk3RSUWH)
+1. 点击注册入口：👉[点此注册](https://yukihasu.org/#/register?code=xk3RSUWH)
 2. 登录后购买套餐（支持支付宝/银行卡/加密货币等）
 3. 复制节点或订阅链接，导入至你常用的工具（如 Shadowrocket）
 
